@@ -4,7 +4,7 @@ A deep learning Long Short-Term Memory(LSTM) RNN model used for generating a com
 
 This model is built on top of tensorflow using its keras API. This model is capable of generating new music sequence which depicts a significant move of ML/AI towards revolutionizing the music industry.
  
-WEBSITE LINK : ai-musicgeneration.herokuapp.com
+WEBSITE LINK : https://ai-musicgeneration.herokuapp.com
 
 ## Installation Documentation
 
